@@ -1,3 +1,7 @@
+## Credentials
+- username - souvik
+- password - assignment
+
 # TMD: FullStack Intern Assignment
 
 ## Overview
